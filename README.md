@@ -1,5 +1,9 @@
 # Discord bot
 
+Split your Discord server users into private breakout subgroups randomly
+
+by @julioholon
+
 ## What's in this project?
 
 ← `README.md`: That’s this file, where you can tell people what your cool website does and how you built it.
